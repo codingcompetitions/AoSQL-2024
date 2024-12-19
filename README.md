@@ -5,7 +5,7 @@
 | Solved |           Day            |  Level   |
 |--------|--------------------------|----------|
 | ⭐      | Santa's Gift List Parser | Beginner |
-
+|        | Santa's jumbled letters  | Beginner |
 
 ## Init
 
