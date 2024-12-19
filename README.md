@@ -2,9 +2,10 @@
 
 [★ Advent of SQL 2024](https://adventofsql.com/) is solved using [PostgreSQL](https://www.postgresql.org/).
 
-| Solved | Day | Level |
-|--------|-----|-------|
-|        |     |       |
+| Solved |           Day            |  Level   |
+|--------|--------------------------|----------|
+| ⭐      | Santa's Gift List Parser | Beginner |
+
 
 ## Init
 
