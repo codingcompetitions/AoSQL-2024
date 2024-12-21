@@ -4,10 +4,11 @@
 
 | Solved |                 Day                 |  Level   |            Topics            |
 |--------|-------------------------------------|----------|------------------------------|
-| ⭐      | Santa's Gift List Parser            | Beginner | json, case, joins            |
-| ⭐      | Santa's jumbled letters             | Beginner | union, cte, ascii, array_agg |
+| 🎄      | Santa's Gift List Parser            | Beginner | json, case, joins            |
+| 🎄      | Santa's jumbled letters             | Beginner | union, cte, ascii, array_agg |
 |        |                                     |          |                              |
-|        | The Great Toy Tag Migration of 2024 | Beginner |                              |
+| 🎄      | The Great Toy Tag Migration of 2024 | Beginner | arrays, set operations       |
+
 
 ## Init
 
