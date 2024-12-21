@@ -4,7 +4,8 @@
 -- file that was distributed with this source code.
 
 -- (sh) ./db.sh
--- (psql) \i day01/day01.input.sql
+-- (psql) \i dbeaver/Scripts/day01/day01.input.sql
+-- (psql) \i dbeaver/Scripts/day01/day01.sql
 
 DROP DATABASE IF EXISTS aosql_day01_input;
 

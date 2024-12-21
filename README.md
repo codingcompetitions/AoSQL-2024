@@ -4,7 +4,7 @@
 
 | Solved |           Day            |  Level   |            Topics            |
 |--------|--------------------------|----------|------------------------------|
-| ⭐      | Santa's Gift List Parser | Beginner |                              |
+| ⭐      | Santa's Gift List Parser | Beginner | json, case, joins            |
 | ⭐      | Santa's jumbled letters  | Beginner | union, cte, ascii, array_agg |
 |        |                          |          |                              |
 
