@@ -2,10 +2,11 @@
 
 [★ Advent of SQL 2024](https://adventofsql.com/) is solved using [PostgreSQL](https://www.postgresql.org/).
 
-| Solved |           Day            |  Level   |
-|--------|--------------------------|----------|
-| ⭐      | Santa's Gift List Parser | Beginner |
-|        | Santa's jumbled letters  | Beginner |
+| Solved |           Day            |  Level   |            Topics            |
+|--------|--------------------------|----------|------------------------------|
+| ⭐      | Santa's Gift List Parser | Beginner |                              |
+| ⭐      | Santa's jumbled letters  | Beginner | union, cte, ascii, array_agg |
+|        |                          |          |                              |
 
 ## Init
 
