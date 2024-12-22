@@ -2,15 +2,15 @@
 
 [★ Advent of SQL 2024](https://adventofsql.com/) is solved using [PostgreSQL](https://www.postgresql.org/).
 
-| Star |                     Day                      |  Level   |            Topics            |
-|------|----------------------------------------------|----------|------------------------------|
-| ⭐    | Day 01 - Santa's Gift List Parser            | Beginner | json, case, joins            |
-| ⭐    | Day 02 - Santa's jumbled letters             | Beginner | union, cte, ascii, array_agg |
-|      | Day 03 -                                     |          |                              |
-| ⭐    | Day 04 - The Great Toy Tag Migration of 2024 | Beginner | arrays, set operations       |
-| ⭐    | Day 05 - Santa's production dashboard        | Beginner | lag, round, window functions |
-| ⭐    | Day 06 - Making presents fairer              | Beginner | subquery, aggregates         |
-|      |                                              |          |                              |
+| Star |                          Day                          |    Level     |            Topics            |
+|------|-------------------------------------------------------|--------------|------------------------------|
+| ⭐    | Day 01 - Santa's Gift List Parser                     | Beginner     | json, case, joins            |
+| ⭐    | Day 02 - Santa's jumbled letters                      | Beginner     | union, cte, ascii, array_agg |
+|      | Day 03 -                                              |              |                              |
+| ⭐    | Day 04 - The Great Toy Tag Migration of 2024          | Beginner     | arrays, set operations       |
+| ⭐    | Day 05 - Santa's production dashboard                 | Beginner     | lag, round, window functions |
+| ⭐    | Day 06 - Making presents fairer                       | Beginner     | subquery, aggregates         |
+|      | Day 07 - Santa's Cartesian Elf Skill-Matching Program | Intermediate |                              |
 
 
 ## Init
