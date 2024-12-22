@@ -8,7 +8,7 @@
 | ⭐    | Day 02 - Santa's jumbled letters             | Beginner | union, cte, ascii, array_agg |
 |      | Day 03 -                                     |          |                              |
 | ⭐    | Day 04 - The Great Toy Tag Migration of 2024 | Beginner | arrays, set operations       |
-|      | Day 05 - Santa's production dashboard        | Beginner |                              |
+| ⭐    | Day 05 - Santa's production dashboard        | Beginner | lag, round, window functions |
 
 
 ## Init
