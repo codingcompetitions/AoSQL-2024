@@ -13,6 +13,7 @@
 | ⭐    | Day 07 - Santa's Cartesian Elf Skill-Matching Program | Intermediate | cte, window functions        |
 |      | Day 08                                                |              |                              |
 | ⭐    | Day 09 - Reindeer Training Records                    | Intermediate | cte, aggregate functions     |
+| ⭐    | Day 10 - The Christmas party drinking list            | Intermediate | pivot, cte                   |
 
 
 ## Init
