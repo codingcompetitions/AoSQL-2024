@@ -11,6 +11,8 @@
 | ⭐    | Day 05 - Santa's production dashboard                 | Beginner     | lag, round, window functions |
 | ⭐    | Day 06 - Making presents fairer                       | Beginner     | subquery, aggregates         |
 | ⭐    | Day 07 - Santa's Cartesian Elf Skill-Matching Program | Intermediate | cte, window functions        |
+|      | Day 08                                                |              |                              |
+|      | Day 09 - Reindeer Training Records                    | Intermediate |                              |
 
 ## Init
 
