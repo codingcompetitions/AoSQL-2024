@@ -11,13 +11,16 @@
 | ⭐    | Day 05 - Santa's production dashboard                 | Beginner     | lag, round, window functions                  |
 | ⭐    | Day 06 - Making presents fairer                       | Beginner     | subquery, aggregates                          |
 | ⭐    | Day 07 - Santa's Cartesian Elf Skill-Matching Program | Intermediate | cte, window functions                         |
-|      | Day 08                                                |              |                                               |
+|      | Day 08 -                                               |              |                                               |
 | ⭐    | Day 09 - Reindeer Training Records                    | Intermediate | cte, aggregate functions                      |
 | ⭐    | Day 10 - The Christmas party drinking list            | Intermediate | pivot, cte                                    |
 | ⭐    | Day 11 - The Christmas tree famine                    | Intermediate | Average over, window functions                |
 | ⭐    | Day 12 - The Great Gift Ranking                       | Intermediate | percentile, window functions                  |
 | ⭐    | Day 13 - Santas Christmas card list                   | Intermediate | window functions, temporary tables, Array agg |
 | ⭐    | Day 14 - Where is Santa's green suit?                 | Intermediate | array functions, json functions               |
+|      | Day 15 -                                              |              |                                               |
+|      | Day 16 -                                              |              |                                               |
+|      | Day 17 - Christmas time zone madness                  | Intermediate |                                               |
 
 
 ## Init
