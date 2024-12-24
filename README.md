@@ -17,6 +17,7 @@
 | ⭐    | Day 11 - The Christmas tree famine                    | Intermediate | Average over, window functions                |
 | ⭐    | Day 12 - The Great Gift Ranking                       | Intermediate | percentile, window functions                  |
 | ⭐    | Day 13 - Santas Christmas card list                   | Intermediate | window functions, temporary tables, Array agg |
+| ⭐    | Day 14 - Where is Santa's green suit?                 | Intermediate | array functions, json functions               |
 
 
 ## Init
