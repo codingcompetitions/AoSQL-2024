@@ -15,6 +15,7 @@
 | ⭐    | Day 09 - Reindeer Training Records                    | Intermediate | cte, aggregate functions       |
 | ⭐    | Day 10 - The Christmas party drinking list            | Intermediate | pivot, cte                     |
 | ⭐    | Day 11 - The Christmas tree famine                    | Intermediate | Average over, window functions |
+|      | Day 12 - The Great Gift Ranking                       | Intermediate |                                |
 
 
 ## Init
