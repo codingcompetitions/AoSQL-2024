@@ -6,7 +6,7 @@
 |------|-------------------------------------------------------|--------------|-----------------------------------------------|
 | ⭐    | Day 01 - Santa's Gift List Parser                     | Beginner     | json, case, joins                             |
 | ⭐    | Day 02 - Santa's jumbled letters                      | Beginner     | union, cte, ascii, array_agg                  |
-|      | Day 03 -                                              |              |                                               |
+|      | Day 03 - The greatest Christmas dinner ever!          | Intermediate |                                               |
 | ⭐    | Day 04 - The Great Toy Tag Migration of 2024          | Beginner     | arrays, set operations                        |
 | ⭐    | Day 05 - Santa's production dashboard                 | Beginner     | lag, round, window functions                  |
 | ⭐    | Day 06 - Making presents fairer                       | Beginner     | subquery, aggregates                          |
