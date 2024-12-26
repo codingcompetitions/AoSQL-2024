@@ -19,7 +19,7 @@
 | ⭐    | Day 13 - Santas Christmas card list                   | Intermediate | window functions, temporary tables, Array agg |
 | ⭐    | Day 14 - Where is Santa's green suit?                 | Intermediate | array functions, json functions               |
 | ⭐    | Day 15 - Santa is missing!                            | Advanced     | Geometry                                      |
-|      | Day 16 - Santa's Delivery Time Analysis               | Advanced     |                                               |
+|      | Day 16 - Santa's Delivery Time Analysis               | Advanced     | LAG, Geometry, Lead, CTE                      |
 | ⭐    | Day 17 - Christmas time zone madness                  | Intermediate | cte, timezone                                 |
 
 
